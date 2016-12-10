@@ -1,2 +1,2 @@
-# jigsaw2
-Jigsaw 2
+# jigsaw
+A javascript and html powered jigsaw puzzle
